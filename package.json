@@ -1,0 +1,16 @@
+{
+  "name": "ttb-node-emoncms",
+  "version": "0.0.1",
+  "description": "This node allow the user to post the payload on a EmonCMS account.",
+  "node-red": {
+    "nodes": {
+      "emoncms": "emoncms.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "emoncms"
+  ],
+  "author": "http://www.digitalairways.com/",
+  "license": "http://www.wtfpl.net"
+}

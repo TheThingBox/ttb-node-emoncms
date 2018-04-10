@@ -1,0 +1,10 @@
+{
+  "emoncms": {
+    "api": "Clé d'API",
+    "key": {
+      "label": "Data key",
+      "placeholder": "Clé des données. Ex : electricite"
+    },
+    "name": "Nom"
+  }
+}
