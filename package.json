@@ -8,9 +8,13 @@
     }
   },
   "keywords": [
+    "TheThingBox",
     "node-red",
     "emoncms"
   ],
+  "dependencies": {
+    "request": "2.85.0"
+  },
   "author": "http://www.digitalairways.com/",
   "license": "http://www.wtfpl.net"
 }
